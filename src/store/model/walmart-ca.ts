@@ -44,13 +44,7 @@ export const WalmartCa: Store = {
       series: 'xboxss',
       url: 'https://www.walmart.ca/en/ip/xbox-series-s/6000201790919',
     },
-    {
-      brand: 'corsair',
-      model: '600 platinum',
-      series: 'sf',
-      url:
-        'https://www.walmart.ca/en/ip/Corsair-SF-Series-SF600-600-Watt-80-PLUS-Gold-Certified-High-Performance-SFX-PSU/PRD6VH8WNKHD36Q',
-    },
+
   ],
   name: 'walmart-ca',
 };

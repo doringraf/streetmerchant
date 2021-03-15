@@ -739,22 +739,7 @@ export const AmazonSg: Store = {
       series: 'xboxss',
       url: 'https://www.amazon.sg/dp/B08G9J44ZN',
     },
-    {
-      brand: 'corsair',
-      cartUrl:
-        'https://www.amazon.sg/gp/aws/cart/add.html?ASIN.1=B07M63H81H&Quantity.1=1',
-      model: '750 platinum',
-      series: 'sf',
-      url: 'https://www.amazon.sg/dp/B07M63H81H',
-    },
-    {
-      brand: 'corsair',
-      cartUrl:
-        'https://www.amazon.sg/gp/aws/cart/add.html?ASIN.1=B07F84FJ1G&Quantity.1=1',
-      model: '600 platinum',
-      series: 'sf',
-      url: 'https://www.amazon.sg/dp/B07F84FJ1G',
-    },
+
   ],
   name: 'amazon-sg',
 };

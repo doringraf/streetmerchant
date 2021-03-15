@@ -21,17 +21,7 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jef/streetmerchant.git"
-  },
   "keywords": [],
-  "author": "jef",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jef/streetmerchant/issues"
-  },
-  "homepage": "https://github.com/jef/streetmerchant#readme",
   "dependencies": {
     "@bridgerakol/samsung-smart-api": "^2.8.1",
     "@doridian/puppeteer-page-proxy": "^1.2.11",
